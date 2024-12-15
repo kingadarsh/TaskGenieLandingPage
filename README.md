@@ -91,8 +91,8 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 
 For questions or collaboration opportunities, feel free to contact us:
-* **Email**: youremail@example.com
-* **Twitter**: @yourusername
+* **Email**: adarsh261201@gmail.com
+* **Twitter**: @adarsh_kathriya
 
 ## Acknowledgments
 
