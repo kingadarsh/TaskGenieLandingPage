@@ -4,7 +4,8 @@ TaskGenie is an intelligent task management web application that helps you plan 
 
 [Check out the live version here: TaskGenie](https://taskgenielandingpage.onrender.com)
 
-## Screenshots
+## Screenshot
+<img width="1227" alt="Screenshot 2024-12-15 at 4 44 26 PM" src="https://github.com/user-attachments/assets/217a6c81-deaf-4177-bf18-efcd5ff00b20" />
 <img width="1470" alt="Screenshot 2024-12-15 at 4 34 26 PM" src="https://github.com/user-attachments/assets/aad03802-9f13-44be-b7d9-b5e2a0d1ec60" />
 <img width="1470" alt="Screenshot 2024-12-15 at 4 34 53 PM" src="https://github.com/user-attachments/assets/ccee2616-9cf7-4509-bfa5-36de59428758" />
 <img width="1470" alt="Screenshot 2024-12-15 at 4 36 23 PM" src="https://github.com/user-attachments/assets/f946d06c-da1f-4822-a13f-dcd898bf2d5e" />
