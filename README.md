@@ -92,7 +92,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For questions or collaboration opportunities, feel free to contact us:
 * **Email**: adarsh261201@gmail.com
-* **Twitter**: @adarsh_kathriya
+* **Twitter**: [@adarsh_kathriya](https://x.com/adarsh_kathriya)
 
 ## Acknowledgments
 
